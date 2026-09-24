@@ -41,7 +41,6 @@
             <section>
                 <h2>TIPOS DE ILUMINACIÓN</h2>
                 <div class="tipos-iluminacion">
-
                     <img src="imagenes/cabeza1.png">
                     <img src="imagenes/cabeza2.png">
                     <img src="imagenes/cabeza3.png">

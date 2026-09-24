@@ -33,7 +33,6 @@
 
       <section>
         <h2>Tipos de planos</h2>
-
         <div class="tipos-planos">
           <div>
             <img src="imagenes/plane1.png">
@@ -133,11 +132,6 @@
             <div class="angulo">
               <img src="imagenes/angle10.jpeg">
               <p>Aerial</p>
-            </div>
-
-            </div>
-            </div>
-
             </div>
           </div>
       </section>
