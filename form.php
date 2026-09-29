@@ -32,5 +32,12 @@
                 <input type="text" id="país" name="país" placeholder="Argentina" required>
             </div>
 
+            <br>
+
+            <div>
+                <input type="submit">
+                <input type="reset">
+            </div>
+        </form>
     </body>
 </html>
