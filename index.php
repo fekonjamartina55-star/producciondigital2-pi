@@ -34,7 +34,7 @@
                         accesible. Fue creada principalmente para cinéfilos, estudiantes de cine y personas apasionadas por el mundo audiovisual que quieran aprender, analizar referencias o descubrir nuevas
                         ideas para sus proyectos.</p>
                     </div>
-                    <div><img src="imagenes/camaraimgpng.png" class="camaraimg"></div>
+                    <div><img src="./img/camaraimgpng.png" class="camaraimg"></div>
                 </article>
                     <h3>Directores Destacados</h3>
                     <p>Explora los directores más influyentes en el cine</p>
