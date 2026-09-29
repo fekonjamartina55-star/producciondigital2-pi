@@ -25,7 +25,7 @@
 
             $query1="INSERT INTO usuarios VALUES ('$usuario', '$mail', '$contraseña', '$pais')";
 
-            $consulta = mysqli_query($conexion,$query1) or die("Hubo un error" . mysqli_error($conexion))
+                $consulta = mysqli_query($conexion,$query1) or die("Hubo un error" . mysqli_error($conexion))
             mysqli_close($conexion);
         ?>
     </body>
