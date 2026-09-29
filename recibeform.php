@@ -16,9 +16,9 @@
             $host="localhost";
             $user="root";
             $pass="";
-            $database="";
+            $database="lookbookcinema";
 
-            $conexion = mysqli_connect("localhost", "root", "", "");
+            $conexion = mysqli_connect("localhost", "root", "", "lookbookcinema");
             if ($conexion = false) {
                 die("Falló la conexión" . mysqli_connect_error());
             }
