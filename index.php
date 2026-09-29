@@ -12,7 +12,7 @@
 
     <body>
         <header>
-            <a href="index.php"><img src="imagenes/LBCLOGO.png" id="logo"></a>
+            <a href="index.php"><img src="./img/LBCLOGO.png" id="logo"></a>
             <input type="text" placeholder="Buscar película o estética...">
             <nav>
                 <ul>
@@ -39,13 +39,13 @@
                     <h3>Directores Destacados</h3>
                     <p>Explora los directores más influyentes en el cine</p>
                         <ul id="director">
-                            <li><img src="imgpersonas/Director1.jpeg" height="255" width="200"></li>
-                            <li><img src="imgpersonas/Director3.jpeg" height="255" width="200"></li>
-                            <li><img src="imgpersonas/Director4.jpeg" height="255" width="200"></li>
-                            <li><img src="imgpersonas/Director5.jpeg" height="255" width="200"></li>
-                            <li><img src="imgpersonas/Director6.jpeg" height="255" width="200"></li>
-                            <li><img src="imgpersonas/Director7.jpeg" height="255" width="200"></li>
-                            <li><img src="imgpersonas/Gretagerwig.jpeg" height="255" width="200"></li>
+                            <li><img src="./img/Director1.jpeg" height="255" width="200"></li>
+                            <li><img src="./img/Director3.jpeg" height="255" width="200"></li>
+                            <li><img src="./img/Director4.jpeg" height="255" width="200"></li>
+                            <li><img src="./img/Director5.jpeg" height="255" width="200"></li>
+                            <li><img src="./img/Director6.jpeg" height="255" width="200"></li>
+                            <li><img src="./img/Director7.jpeg" height="255" width="200"></li>
+                            <li><img src="./img/Gretagerwig.jpeg" height="255" width="200"></li>
                         </ul>
                 </article>
             </section>
@@ -53,12 +53,12 @@
                     <h3>Películas que revolucionaron el cine</h3>
                     <p>Películas que hicieron historia</p>
                         <ul id="peliculas"> 
-                            <li><img src="imagenes/2001.jpeg" height="350" width="235"></li>
-                            <li><img src="imagenes/magooz.jpeg" height="350" width="235"></li>
-                            <li><img src="imagenes/Matrix.jpeg" height="350" width="235"></li>
-                            <li><img src="imagenes/phycho.jpeg" height="350" width="235"></li>
-                            <li><img src="imagenes/Stars Wars_ Episode IV - A New Hope (1977).jpeg" height="350" width="235"></li>
-                            <li><img src="imagenes/citizen.jpeg" height="350" width="235"></li>
+                            <li><img src="./img/2001.jpeg" height="350" width="235"></li>
+                            <li><img src="./img/magooz.jpeg" height="350" width="235"></li>
+                            <li><img src="./img/Matrix.jpeg" height="350" width="235"></li>
+                            <li><img src="./img/phycho.jpeg" height="350" width="235"></li>
+                            <li><img src="./img/Stars Wars_ Episode IV - A New Hope (1977).jpeg" height="350" width="235"></li>
+                            <li><img src="./img/citizen.jpeg" height="350" width="235"></li>
                         </ul>
                 </article>
             </section>

@@ -10,7 +10,7 @@
 
   <body>
     <header>
-      <a href="index.php"><img src="imagenes/LBCLOGO.png" id="logo"></a>
+      <a href="index.php"><img src="./img/LBCLOGO.png" id="logo"></a>
       <input type="text" placeholder="Buscar película o estética...">
       <nav>
         <ul>
@@ -35,47 +35,47 @@
         <h2>Tipos de planos</h2>
         <div class="tipos-planos">
           <div>
-            <img src="imagenes/plane1.png">
+            <img src="./img/plane1.png">
             <p>Extreme close up</p>
           </div>
 
           <div>
-            <img src="imagenes/plane2.png">
+            <img src="./img/plane2.png">
             <p>Close up</p>
           </div>
 
           <div>
-            <img src="imagenes/angle3.jpeg">
+            <img src="./img/angle3.jpeg">
             <p>Medium shot</p>
           </div>
 
           <div>
-            <img src="imagenes/plane4.png">
+            <img src="./img/plane4.png">
             <p>Full shot</p>
           </div>
 
           <div>
-            <img src="imagenes/plane5.jpeg">
+            <img src="./img/plane5.jpeg">
             <p>Wide shot</p>
           </div>
 
           <div>
-            <img src="imagenes/plane6.jpeg">
+            <img src="./img/plane6.jpeg">
             <p>Extreme wide shot</p>
           </div>
 
           <div>
-            <img src="imagenes/plane7.jpeg">
+            <img src="./img/plane7.jpeg">
             <p>Cowboy shot</p>
           </div>
 
           <div>
-            <img src="imagenes/plane8.jpeg">
+            <img src="./img/plane8.jpeg">
             <p>Establishing shot</p>
           </div>
 
           <div>
-            <img src="imagenes/plane9.jpeg">
+            <img src="./img/plane9.jpeg">
             <p>Over the shoulder</p>
           </div>
         </div>
@@ -85,52 +85,52 @@
         <h2>Ángulos</h2>
           <div class="angulos">
             <div class="angulo">
-              <img src="imagenes/angle1.png">
+              <img src="./img/angle1.png">
               <p>Eye level</p>
             </div>
 
             <div class="angulo">
-              <img src="imagenes/angle2.png">
+              <img src="./img/angle2.png">
               <p>Low angle</p>
             </div>
 
             <div class="angulo">
-              <img src="imagenes/angle3.jpeg">
+              <img src="./img/angle3.jpeg">
               <p>High angle</p>
             </div>
 
             <div class="angulo">
-              <img src="imagenes/angle4.png">
+              <img src="./img/angle4.png">
               <p>Hip level</p>
             </div>
 
             <div class="angulo">
-              <img src="imagenes/angle5.png">
+              <img src="./img/angle5.png">
               <p>Knee level</p>
             </div>
 
             <div class="angulo">
-              <img src="imagenes/angle6.png">
+              <img src="./img/angle6.png">
               <p>Ground level</p>
             </div>
 
             <div class="angulo">
-              <img src="imagenes/angle7.png">
+              <img src="./img/angle7.png">
               <p>Shoulder level</p>
             </div>
      
             <div class="angulo">
-              <img src="imagenes/angle8.jpeg">
+              <img src="./img/angle8.jpeg">
               <p>Dutch level</p>
             </div>
       
             <div class="angulo">
-              <img src="imagenes/angle9.jpeg">
+              <img src="./img/angle9.jpeg">
               <p>Overhead</p>
             </div>
 
             <div class="angulo">
-              <img src="imagenes/angle10.jpeg">
+              <img src="./img/angle10.jpeg">
               <p>Aerial</p>
             </div>
           </div>
@@ -139,11 +139,11 @@
       <section>
         <h2>Películas que usan los planos de forma excepcional</h2>
         <div class="peliculas-planos">
-          <img src="imagenes/bladerunner.jpeg">
-          <img src="imagenes/lawrencearabia.jpeg">
-          <img src="imagenes/madmax.jpeg">
-          <img src="imagenes/resplandor.jpeg">
-          <img src="imagenes/thegoodthebad.jpeg">
+          <img src="./img/bladerunner.jpeg">
+          <img src="./img/lawrencearabia.jpeg">
+          <img src="./img/madmax.jpeg">
+          <img src="./img/resplandor.jpeg">
+          <img src="./img/thegoodthebad.jpeg">
         </div>
       </section>
     </main>

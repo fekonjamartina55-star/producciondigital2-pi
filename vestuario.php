@@ -10,7 +10,7 @@
 
   <body class="pag-vestuario">
     <header>
-      <a href="index.php"><img src="imagenes/LBCLOGO.png" id="logo"></a>
+      <a href="index.php"><img src="./img/LBCLOGO.png" id="logo"></a>
       <input type="text" placeholder="Buscar película o estética...">
       <nav>
         <ul>
@@ -34,33 +34,33 @@
       <section>
         <h2>Diseñadores de vestuario destacados</h2>
         <div class="diresvest">
-          <img src="imgpersonas/dirves1.jpeg">
-          <img src="imgpersonas/dirves2.jpeg">
-          <img src="imgpersonas/dirver3.jpeg">
-          <img src="imgpersonas/dirves4.jpeg">
-          <img src="imgpersonas/dirves5.jpeg">
+          <img src="./img/dirves1.jpeg">
+          <img src="./img/dirves2.jpeg">
+          <img src="./img/dirver3.jpeg">
+          <img src="./img/dirves4.jpeg">
+          <img src="./img/dirves5.jpeg">
         </div>
       </section>
 
       <section>
         <h2>Películas con vestuario icónico</h2>
         <div class="galeria">
-          <img src="imagenes/cleopatramovie.jpeg">
-          <img src="imagenes/barbiemovie.jpeg">
-          <img src="imagenes/cruellamovie.jpeg">
-          <img src="imagenes/antonietamovie.jpeg">
-          <img src="imagenes/tiffanysmovie.jpeg">
+          <img src="./img/cleopatramovie.jpeg">
+          <img src="./img/barbiemovie.jpeg">
+          <img src="./img/cruellamovie.jpeg">
+          <img src="./img/antonietamovie.jpeg">
+          <img src="./img/tiffanysmovie.jpeg">
         </div>
       </section>
 
       <section>
         <h2>Galería de referencias</h2>
         <div class="galeria">
-          <img src="imagenes/galeriaphotos1.jpeg">
-          <img src="imagenes/galeriaphotos2.jpeg">
-          <img src="imagenes/galeriaphotos3.jpeg">
-          <img src="imagenes/galeriaphotos4.jpeg">
-          <img src="imagenes/galeriaphotos5.jpeg">
+          <img src="./img/galeriaphotos1.jpeg">
+          <img src="./img/galeriaphotos2.jpeg">
+          <img src="./img/galeriaphotos3.jpeg">
+          <img src="./img/galeriaphotos4.jpeg">
+          <img src="./img/galeriaphotos5.jpeg">
         </div>
       </section>
     </main>
