@@ -19,6 +19,7 @@
             <li><a href="composicion.php">Composición</a></li>
             <li><a href="planos.php">Planos</a></li>
             <li><a href="vestuario.php">Vestuario</a></li>
+            <li><a href="form.php">Iniciar Sesión</a></li>
           </ul>
         </nav>
       </header>
