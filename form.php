@@ -28,8 +28,8 @@
             <br>
 
             <div>
-                <label for="país">País:</label>
-                <input type="text" id="país" name="país" placeholder="Argentina" required>
+                <label for="pais">País:</label>
+                <input type="text" id="pais" name="pais" placeholder="Argentina" required>
             </div>
 
             <br>

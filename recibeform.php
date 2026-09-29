@@ -24,8 +24,12 @@
             }
 
             $query1="INSERT INTO usuarios VALUES ('$usuario', '$mail', '$contraseña', '$pais')";
+            if (mysqli_query($conexion, $query1)) {
+                echo "Usuario registrado correctamente";
+            } else {
+                echo "Error al enviar datos." . $query1 . "<br>" . mysqli_error($conexion);
+            }
 
-                $consulta = mysqli_query($conexion,$query1) or die("Hubo un error" . mysqli_error($conexion));
             mysqli_close($conexion);
         ?>
     </body>
