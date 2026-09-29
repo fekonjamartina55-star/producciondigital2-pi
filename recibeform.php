@@ -13,20 +13,15 @@
             $contraseña = $_POST['contraseña'];
             $pais = $_POST['pais'];
 
-            $host="localhost";
-            $user="root";
-            $pass="";
-            $database="lookbookcinema";
-
             $conexion = mysqli_connect("localhost", "root", "", "lookbookcinema");
-            if ($conexion = false) {
+            if (!$conexion){
                 die("Falló la conexión" . mysqli_connect_error());
             }
 
-            $query1="INSERT INTO usuarios VALUES ('$usuario', '$mail', '$contraseña', '$pais')";
+            $query1 = "INSERT INTO usuarios (usuario, mail, contraseña, pais) VALUES ('$usuario', '$mail', '$contraseña', '$pais')";
             if (mysqli_query($conexion, $query1)) {
-                echo "Usuario registrado correctamente";
-            } else {
+                echo "Usuario registrado correctamente.";
+            }else {
                 echo "Error al enviar datos." . $query1 . "<br>" . mysqli_error($conexion);
             }
 
