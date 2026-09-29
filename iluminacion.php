@@ -12,7 +12,7 @@
 
     <body>
         <header>
-            <a href="index.php"><img src="imagenes/LBCLOGO.png" id="logo"></a>
+            <a href="index.php"><img src="./img/LBCLOGO.png" id="logo"></a>
             <input type="text" placeholder="Buscar película o estética...">
             <nav>
                 <ul>
@@ -41,27 +41,26 @@
             <section>
                 <h2>TIPOS DE ILUMINACIÓN</h2>
                 <div class="tipos-iluminacion">
-
-                    <img src="imagenes/cabeza1.png">
-                    <img src="imagenes/cabeza2.png">
-                    <img src="imagenes/cabeza3.png">
-                    <img src="imagenes/cabeza4.png">
-                    <img src="imagenes/cabeza5.png">
-                    <img src="imagenes/cabeza6.png">
-                    <img src="imagenes/cabeza7.png">
-                    <img src="imagenes/cabeza8.png">
-                    <img src="imagenes/cabeza9.png">
+                    <img src="./img/cabeza1.png">
+                    <img src="./img/cabeza2.png">
+                    <img src="./img/cabeza3.png">
+                    <img src="./img/cabeza4.png">
+                    <img src="./img/cabeza5.png">
+                    <img src="./img/cabeza6.png">
+                    <img src="./img/cabeza7.png">
+                    <img src="./img/cabeza8.png">
+                    <img src="./img/cabeza9.png">
                 </div>
             </section>
 
             <section>
                 <h2>Películas con Iluminación revolucionaría</h2>
                 <div class="peliculas-iluminacion">
-                    <img src="imagenes/ilumovie1.jpeg">
-                    <img src="imagenes/ilumovie2.jpeg">
-                    <img src="imagenes/ilumovie3.jpeg">
-                    <img src="imagenes/ilumovie4.jpeg">
-                    <img src="imagenes/ilumovie5.jpeg">
+                    <img src="./img/ilumovie1.jpeg">
+                    <img src="./img/ilumovie2.jpeg">
+                    <img src="./img/ilumovie3.jpeg">
+                    <img src="./img/ilumovie4.jpeg">
+                    <img src="./img/ilumovie5.jpeg">
                 </div>
             </section>
         </main>

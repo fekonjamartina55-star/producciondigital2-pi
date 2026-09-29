@@ -10,7 +10,7 @@
 
     <body class="pag-colores">
       <header>
-        <a href="index.php"><img src="imagenes/LBCLOGO.png" id="logo"></a>
+        <a href="index.php"><img src="./img/LBCLOGO.png" id="logo"></a>
         <input type="text" placeholder="Buscar película o estética...">
         <nav>
           <ul>
@@ -79,15 +79,15 @@
 
           <h3>Emociones que transmite cada color</h3>
             <div class="momento">
-              <img src="imagenes/ROJO MOMENT LBC.png">
-              <img src="imagenes/NARANJA MOMENT LBC.jpeg">
-              <img src="imagenes/AMARILLO MOMENT LBC.png">
-              <img src="imagenes/VERDE MOMENT LBC.jpeg">
-              <img src="imagenes/AZUL MOMENT LBC.jpeg">
-              <img src="imagenes/VIOLETA MOMENT LBC.jpeg">
-              <img src="imagenes/PINK MOMENT LBC.jpeg">
-              <img src="imagenes/BLANCO MOMENT LBC.png">
-              <img src="imagenes/NEGRO MOMENT LBC.png">
+              <img src="./img/ROJO MOMENT LBC.png">
+              <img src="./img/NARANJA MOMENT LBC.jpeg">
+              <img src="./img/AMARILLO MOMENT LBC.png">
+              <img src="./img/VERDE MOMENT LBC.jpeg">
+              <img src="./img/AZUL MOMENT LBC.jpeg">
+              <img src="./img/VIOLETA MOMENT LBC.jpeg">
+              <img src="./img/PINK MOMENT LBC.jpeg">
+              <img src="./img/BLANCO MOMENT LBC.png">
+              <img src="./img/NEGRO MOMENT LBC.png">
             </div>
           </div>
         </section>
@@ -96,7 +96,7 @@
           <h3 class="titulo-paletas">Paletas cinematográficas destacadas</h3>
 
           <div class="pelicula-paleta">
-            <img src="imagenes/TGBH LBC.jpeg" alt="Grand Budapest Hotel">
+            <img src="./img/TGBH LBC.jpeg" alt="Grand Budapest Hotel">
             <div class="paleta">
             <div style="background:#E4B2C7;"></div>
             <div style="background:#D37FA7;"></div>
@@ -107,7 +107,7 @@
           </div>
 
           <div class="pelicula-paleta">
-            <img src="imagenes/La la land.jpeg" alt="La La Land">
+            <img src="./img/La la land.jpeg" alt="La La Land">
             <div class="paleta">
             <div style="background:#3A63B7;"></div>
             <div style="background:#F5D24D;"></div>
@@ -118,7 +118,7 @@
         </div>
 
         <div class="pelicula-paleta">
-          <img src="imagenes/drive.jpeg" alt="Drive">
+          <img src="./img/drive.jpeg" alt="Drive">
           <div class="paleta">
           <div style="background:#F24AA3;"></div>
           <div style="background:#C91870;"></div>
