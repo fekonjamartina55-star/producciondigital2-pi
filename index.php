@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="./estilos.css/estilo.css">
     </head>
-
+    
     <body>
         <header>
             <a href="index.php"><img src="imagenes/LBCLOGO.png" id="logo"></a>
