@@ -27,38 +27,42 @@
         </header>
 
         <main>
-            <form action="recibeform.php" method="post" class ="formulario">
-                <div>
-                    <label for="usuario">Usuario:</label>
-                    <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
+            <section class="formatoform">
+                <div class="formulario">
+                    <form action="recibeform.php" method="post">
+
+                            <div>
+                                <label for="usuario">Usuario:</label>
+                                <br>
+                                <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
+                            </div>
+
+                            <div>
+                                <label for="mail">Correo Electrónico:</label>
+                                <br>
+                                <input type="mail" id="mail" name="mail" placeholder="Juan@gmail.com" required>
+                            </div>
+
+                            <div>
+                                <label for="contraseña">Contraseña:</label>
+                                <br>
+                                <input type="password" id="contraseña" name="contraseña" required>
+                            </div>
+
+                            <div>
+                                <label for="pais">País:</label>
+                                <br>
+                                <input type="text" id="pais" name="pais" placeholder="Argentina" required>
+                            </div>
+
+                            <div>
+                                <input type="submit">
+                                <input type="reset">
+                            </div>
+                        
+                    </form>
                 </div>
-            
-                <br>
-
-                <div>
-                    <label for="mail">Correo Electrónico:</label>
-                    <input type="mail" id="mail" name="mail" placeholder="Juan@gmail.com" required>
-                </div>
-
-                <div>
-                    <label for="contraseña">Contraseña:</label>
-                    <input type="password" id="contraseña" name="contraseña" required>
-                </div>
-
-                <br>
-
-                <div>
-                    <label for="pais">País:</label>
-                    <input type="text" id="pais" name="pais" placeholder="Argentina" required>
-                </div>
-
-                <br>
-
-                <div>
-                    <input type="submit">
-                    <input type="reset">
-                </div>
-            </form>
+            </section>
         </main>
 
         <footer>

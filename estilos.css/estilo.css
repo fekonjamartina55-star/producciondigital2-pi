@@ -5,6 +5,7 @@
 body {
     background-color: #f0e5d2;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header{
@@ -627,6 +628,10 @@ p {
     height: 275px;
     object-fit: cover;
     border-radius: 15px;
+}
+
+.formatoform{
+    
 }
 
 .formulario{

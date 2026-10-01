@@ -21,6 +21,7 @@
             $query1 = "INSERT INTO usuarios (usuario, mail, contraseña, pais) VALUES ('$usuario', '$mail', '$contraseña', '$pais')";
             if (mysqli_query($conexion, $query1)) {
                 echo "Usuario registrado correctamente.";
+                header("/form.php");
             }else {
                 echo "Error al enviar datos." . $query1 . "<br>" . mysqli_error($conexion);
             }
