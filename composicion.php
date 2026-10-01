@@ -157,7 +157,7 @@
 </section>
 </main>
 <footer>
-  <p>2026 LookBook Cinema por Martu</p>
+  <p>©2026 Desarrollado por Martina Fekonja Casiña & Ezequiel Lopez Mic </p>
 </footer>
 </body>
 </html>
