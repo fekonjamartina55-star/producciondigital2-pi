@@ -27,7 +27,7 @@
             </nav>
         </header>
 
-        <main>
+        <main class="mainform">
             <section class="formatoform">
                 <div class="formulario">
                     <form action="recibeform.php" method="post">
@@ -41,7 +41,7 @@
                             <div>
                                 <label for="mail">Correo Electrónico:</label>
                                 <br>
-                                <input type="mail" id="mail" name="mail" placeholder="Juan@gmail.com" required>
+                                <input type="email" id="mail" name="mail" placeholder="Juan@gmail.com" required>
                             </div>
 
                             <div>

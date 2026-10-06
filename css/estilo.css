@@ -630,10 +630,21 @@ p {
     border-radius: 15px;
 }
 
+.mainform {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .formatoform{
-    
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
 }
 
 .formulario{
-    
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
 }
