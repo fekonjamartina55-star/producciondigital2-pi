@@ -13,7 +13,7 @@
 
     <body>
         <header>
-            <a href="index.php"><img src="./img/LBCLOGO.png" id="logo"></a>
+            <a href="index.php"><img src="./img/LBCLOGO.png" height="100rem" width="200rem" class="logo"></a>
             <input type="text" placeholder="Buscar película o estética...">
             <nav>
                 <ul>

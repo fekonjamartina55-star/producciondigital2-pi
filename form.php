@@ -13,7 +13,7 @@
 
     <body>
         <header>
-            <a href="index.php"><img src="./img/LBCLOGO.png" id="logo"></a>
+            <a href="index.php"><img src="./img/LBCLOGO.png" height="100rem" width="200rem" class="logo"></a>
             <input type="text" placeholder="Buscar película o estética...">
             <nav>
                 <ul>
@@ -32,31 +32,35 @@
                 <div class="formulario">
                     <form action="recibeform.php" method="post">
 
-                            <div>
+                            <div class="divform">
                                 <label for="usuario">Usuario:</label>
+                                <br>
                                 <br>
                                 <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
                             </div>
 
-                            <div>
+                            <div class="divform">
                                 <label for="mail">Correo Electrónico:</label>
+                                <br>
                                 <br>
                                 <input type="email" id="mail" name="mail" placeholder="Juan@gmail.com" required>
                             </div>
 
-                            <div>
+                            <div class="divform">
                                 <label for="contraseña">Contraseña:</label>
+                                <br>
                                 <br>
                                 <input type="password" id="contraseña" name="contraseña" required>
                             </div>
 
-                            <div>
+                            <div class="divform">
                                 <label for="pais">País:</label>
+                                <br>
                                 <br>
                                 <input type="text" id="pais" name="pais" placeholder="Argentina" required>
                             </div>
 
-                            <div>
+                            <div class="divform">
                                 <input type="submit">
                                 <input type="reset">
                             </div>
