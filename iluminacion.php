@@ -56,7 +56,7 @@
             </section>
 
             <section>
-                <h2>Películas con Iluminación revolucionaría</h2>
+                <h2>Películas con Iluminación revolucionaria</h2>
                 <div class="peliculas-iluminacion">
                     <img src="./img/ilumovie1.jpeg">
                     <img src="./img/ilumovie2.jpeg">
