@@ -32,35 +32,39 @@
                 <div class="formulario">
                     <form action="recibeform.php" method="post">
 
-                            <div class="divform">
+                            <div>
                                 <label for="usuario">Usuario:</label>
                                 <br>
                                 <br>
                                 <input type="text" id="usuario" name="usuario" placeholder="Juan" required>
                             </div>
 
-                            <div class="divform">
+                            <div>
+                                <br>
                                 <label for="mail">Correo Electrónico:</label>
                                 <br>
                                 <br>
                                 <input type="email" id="mail" name="mail" placeholder="Juan@gmail.com" required>
                             </div>
 
-                            <div class="divform">
+                            <div>
+                                <br>
                                 <label for="contraseña">Contraseña:</label>
                                 <br>
                                 <br>
                                 <input type="password" id="contraseña" name="contraseña" required>
                             </div>
 
-                            <div class="divform">
+                            <div>
+                                <br>
                                 <label for="pais">País:</label>
                                 <br>
                                 <br>
                                 <input type="text" id="pais" name="pais" placeholder="Argentina" required>
                             </div>
 
-                            <div class="divform">
+                            <div>
+                                <br>
                                 <input type="submit">
                                 <input type="reset">
                             </div>
