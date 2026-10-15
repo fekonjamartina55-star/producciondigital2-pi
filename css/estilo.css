@@ -1,6 +1,6 @@
 .logo {
-    margin-top: 20rem;
-    margin-left: 20rem;
+    
+    
 }
 
 body {
@@ -13,7 +13,10 @@ header {
     background-color: #700912;
     width: 100%;
     padding: 0;
-
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 #director{
@@ -36,13 +39,6 @@ header {
     display: flex;
     justify-content: center;
     gap: 10px;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
 }
 
 nav {
